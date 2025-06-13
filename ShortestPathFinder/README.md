@@ -1,4 +1,4 @@
-# 🗺️ Linggang Guli Guli - Simulasi Google Maps Jawa Timur
+# 🗺️ Simulasi Google Maps Jawa Timur dengan Metode A*
 
 ## 📋 **Deskripsi Project**
 
@@ -136,17 +136,6 @@ func find_multi_destination_route(start_id, destinations):
 - **Data Structure**: Graph adjacency list dengan weights
 - **Algorithms**: A* pathfinding + Greedy TSP solver
 
-## 🎯 **Fitur Perbaikan**
-
-### ✅ **Yang Sudah Diperbaiki**
-- ✅ Implementasi tombol "➕ Tambah Kota" yang berfungsi
-- ✅ Validasi input untuk mencegah duplikasi goals
-- ✅ Display real-time daftar goals yang sudah ditambahkan
-- ✅ Multi-destination pathfinding yang optimal
-- ✅ Visual feedback dengan warna berbeda untuk route types
-- ✅ Error handling dan user feedback
-- ✅ Reset functionality untuk goals
-
 ### 🔄 **Cara Kerja Multi-Goals**
 1. User menambah beberapa kota sebagai "goals" intermediate
 2. Sistem menggabungkan goals + destination akhir
@@ -167,4 +156,4 @@ func find_multi_destination_route(start_id, destinations):
 
 ---
 
-**🇮🇩 Made with ❤️ for exploring East Java, Indonesia** 
+**Made with ❤️ for exploring East Java, Indonesia** 
