@@ -4,6 +4,9 @@
 
 Simulasi navigasi GPS untuk wilayah Jawa Timur menggunakan **Godot Engine 4.4**. Project ini mengimplementasikan algoritma **A* pathfinding** untuk mencari rute terpendek antar 26 kota di Jawa Timur dengan data geografis yang akurat.
 
+## 🌐 **OUR WEBSITE**
+## **https://tugas.adan.lat**
+
 ## ✨ **Fitur Utama**
 
 ### 🚗 **Single Route Navigation**
